@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "196427380925",
+    "project_id": "push-notifications-8d319",
+    "storage_bucket": "push-notifications-8d319.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196427380925:android:9c469781ebfdb64fe5dfd4",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFBvUPiKwRvgqytRjvHNgIHoZJUIseH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196427380925:android:df914889ae53cfd4e5dfd4",
+        "android_client_info": {
+          "package_name": "massege.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCFBvUPiKwRvgqytRjvHNgIHoZJUIseH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
